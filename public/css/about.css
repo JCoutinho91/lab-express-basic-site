@@ -1,0 +1,25 @@
+.container{
+    background-color;
+    display: flex;
+    justify-content: center;
+}
+
+.assinatura{
+    height: 200px;
+}
+
+.navigation{
+    display: inline;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+li{
+list-style-type: none;
+padding: 10px;
+}
+
+p{
+    font-size: 40px;
+    justify-content: center;
+}

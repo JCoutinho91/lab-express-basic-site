@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+
+}
+.container{
+    display: flex;
+    justify-content: center
+}
+
+.assinatura{
+    height: 200px;
+}
+.container2{
+    display: flex;
+    border: 5px black;
+    justify-content: center;
+}
+.homeimg{
+    text-align: center;
+}
+.navigation{
+    display: inline;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+li{
+list-style-type: none;
+padding: 10px;
+}
+.maintext{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px ;
+
+}
+p {  
+    text-align: center;
+    font-size: larger;
+}
+.Maintext{
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.quotes{
+    text-align: center;
+    font-style: italic;
+}
+
+.homeimg{
+    border-radius: 150px;
+}
