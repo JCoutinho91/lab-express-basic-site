@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+
+}
+.container{
+    display: flex;
+    justify-content: center
+}
+
+.assinatura{
+    height: 200px;
+}
+
+.images{
+    display:block;
+    text-align: center;
+    
+
+}
